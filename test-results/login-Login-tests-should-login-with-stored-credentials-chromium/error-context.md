@@ -1,0 +1,106 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - main [ref=e4]:
+    - img "Overlay"
+    - generic [ref=e6]:
+      - img "Emergent Logo" [ref=e7]
+      - generic [ref=e8]:
+        - generic:
+          - button "Features"
+          - button "Pricing"
+          - button "FAQs"
+      - button "Get Started":
+        - text: Get Started
+        - generic:
+          - img
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - img "Emergent Logo" [ref=e12] [cursor=pointer]
+        - generic [ref=e13]:
+          - generic [ref=e15]:
+            - text: Creation
+            - text: begins here
+          - generic [ref=e17]:
+            - paragraph [ref=e18]: Already have an account?
+            - paragraph [ref=e19] [cursor=pointer]: Sign in
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - generic [ref=e22]:
+              - button "google icon Continue with Google" [ref=e23] [cursor=pointer]:
+                - generic [ref=e25]:
+                  - img "google icon" [ref=e26]
+                  - generic [ref=e27]: Continue with Google
+              - generic [ref=e28]:
+                - button "github icon" [ref=e29] [cursor=pointer]:
+                  - img "github icon" [ref=e32]
+                - button "apple icon" [ref=e33] [cursor=pointer]:
+                  - img "apple icon" [ref=e36]
+            - generic [ref=e39]: Or start with email
+            - button "Sign up with Email" [ref=e41] [cursor=pointer]:
+              - generic [ref=e43]:
+                - generic [ref=e44]:
+                  - img
+                - paragraph [ref=e45]: Sign up with Email
+          - paragraph [ref=e47]:
+            - text: By continuing, you agree to our
+            - link "Terms of Service" [ref=e48] [cursor=pointer]:
+              - /url: /terms-of-service
+            - text: and
+            - link "Privacy Policy" [ref=e49] [cursor=pointer]:
+              - /url: /privacy-policy
+            - text: .
+      - generic [ref=e54]:
+        - paragraph [ref=e56]: Trusted by 1.5M+ Users
+        - generic [ref=e57]:
+          - generic [ref=e59]:
+            - img "Image 1" [ref=e62] [cursor=pointer]
+            - img "Image 1" [ref=e66] [cursor=pointer]
+            - img "Image 1" [ref=e70] [cursor=pointer]
+            - img "Image 1" [ref=e74] [cursor=pointer]
+            - img "Image 1" [ref=e77] [cursor=pointer]
+          - generic [ref=e80]:
+            - button "Previous" [ref=e81] [cursor=pointer]:
+              - img "Next" [ref=e82]
+            - generic [ref=e83]:
+              - button "Go to slide 1" [ref=e84] [cursor=pointer]
+              - button "Go to slide 2" [ref=e85] [cursor=pointer]
+              - button "Go to slide 3" [ref=e86] [cursor=pointer]
+              - button "Go to slide 4" [ref=e87] [cursor=pointer]
+              - button "Go to slide 5" [ref=e89] [cursor=pointer]
+            - button "Next" [ref=e90] [cursor=pointer]:
+              - img "Next" [ref=e91]
+          - generic [ref=e93]:
+            - generic [ref=e94]:
+              - paragraph [ref=e95]: 1.5M+
+              - paragraph [ref=e96]: Users
+            - img [ref=e98]
+            - generic [ref=e99]:
+              - paragraph [ref=e100]: 2M+
+              - paragraph [ref=e101]: Apps
+            - img [ref=e103]
+            - generic [ref=e104]:
+              - paragraph [ref=e105]: 180+
+              - paragraph [ref=e106]: Countries
+            - img [ref=e108]
+            - generic [ref=e109]:
+              - generic [ref=e110]:
+                - img [ref=e112]
+                - generic [ref=e115]: YC
+              - paragraph [ref=e116]: Backed by
+    - generic [ref=e117] [cursor=pointer]:
+      - img [ref=e119]
+      - paragraph [ref=e122]: Scroll down to see magic
+      - img [ref=e124]
+    - generic [ref=e127]:
+      - generic [ref=e130]: Loading section...
+      - generic [ref=e133]: Loading section...
+      - generic [ref=e136]: Loading section...
+      - generic [ref=e139]: Loading section...
+      - generic [ref=e142]: Loading section...
+      - generic [ref=e145]: Loading section...
+      - generic [ref=e148]: Loading section...
+  - region "Notifications (F8)":
+    - list
+```

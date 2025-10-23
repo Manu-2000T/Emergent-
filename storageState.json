@@ -1,0 +1,185 @@
+{
+  "cookies": [
+    {
+      "name": "cee",
+      "value": "76CTxssdrbuA3g55OsgE6v1%2BcFblc9xvUG0Rly3VGvQ%3D.%7B%22em%22%3A%22096eb47b9e65a0e2f1b761089840797f421de554c0c3f31596cce51a51c1c606%22%7D",
+      "domain": ".mpc-prod-16-s6uit34pua-uk.a.run.app",
+      "path": "/events/ed688d256645d756692e5019978742e656aba00bc7af203ba92a220cbd6d11f4",
+      "expires": 1768978929.685524,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "taboola_session_id",
+      "value": "v2_abb3463c129846d20635e3af5b351d93_9055dfa5-31be-4c9e-b9ad-3f58fc648976-tuctff3586d_1761202926_1761202926_CNawjgYQjMl1GPqh__6gMyABKAMwZziY0QpA5I8QSK3b_ANQ____________AVgAYABosIO5-M78wI6VAXABgAEA",
+      "domain": ".taboola.com",
+      "path": "/taboolaaccount-ajayemergentsh/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tracked_query_params",
+      "value": "%5B%22rewardful_affiliate%22%5D",
+      "domain": "app.emergent.sh",
+      "path": "/",
+      "expires": 1763794915,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1656387128.1761202916",
+      "domain": ".emergent.sh",
+      "path": "/",
+      "expires": 1795762916.151594,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1761202916512,\"i_b\":\"H/lDuVhbQwV/GCh6WyzCMRovnWf0OTieSs0Eo1SfaVQ\"}",
+      "domain": "app.emergent.sh",
+      "path": "/",
+      "expires": 1776754916,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cjConsent",
+      "value": "MHxOfDB8Tnww",
+      "domain": ".emergent.sh",
+      "path": "/",
+      "expires": 1795330916,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cjUser",
+      "value": "887c0220-50a2-4f90-9152-075ceb2c1818",
+      "domain": ".emergent.sh",
+      "path": "/",
+      "expires": 1795330918.962835,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1761203823.788931,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_gid",
+      "value": "9055dfa5-31be-4c9e-b9ad-3f58fc648976-tuctff3586d",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1792738928.031803,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_pt_gid",
+      "value": "9055dfa5-31be-4c9e-b9ad-3f58fc648976-tuctff3586d",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1792738928.031918,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://emergent.sh",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1761202928464.458025225257734571",
+      "domain": ".emergent.sh",
+      "path": "/",
+      "expires": 1768978930,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1209396197.1761202916.829342735.1761202931.1761202930",
+      "domain": ".emergent.sh",
+      "path": "/",
+      "expires": 1768978916,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_SDS4HXTY21",
+      "value": "GS2.1.s1761202916$o1$g1$t1761202930$j46$l0$h0",
+      "domain": ".emergent.sh",
+      "path": "/",
+      "expires": 1795762930.890518,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ph_phc_xAvL2Iq4tFmANRE7kzbKwaSqp1HJjN7x48s3vr0CMjs_posthog",
+      "value": "%7B%22distinct_id%22%3A%22019a0fdf-c86f-7779-9ab9-4462c9401d14%22%2C%22%24sesid%22%3A%5B1761202930980%2C%22019a0fdf-c86b-7791-a43d-208c3c856e1b%22%2C1761202915434%5D%7D",
+      "domain": ".emergent.sh",
+      "path": "/",
+      "expires": 1792738930,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.emergent.sh",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1761202928455"
+        },
+        {
+          "name": "eng_mt",
+          "value": "{\"ver\":36,\"sessionStartTime\":1761202917632,\"scrollDepth\":0,\"sessionDepth\":[\"-812449162\"],\"timeOnSite\":0,\"crossSessionsData\":{\"sessionsHistory\":[1761202917632]},\"numOfTimesMetricsSent\":2}"
+        },
+        {
+          "name": "_bz_auth_key",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpX2lkIjoiYW5vbnltb3VzLTczNzI2NTZjLWViN2UtNDU0Zi04ZjRjLWUxNTE5YmUwMjY0NSIsImtleSI6ImtleV9CVzE3amE5aEV2QTJNeW0iLCJpYXQiOjE3NjEyMDI5MzB9.FyvTi-n5v0I38bru_KEks1pK0JgPu0HhEYfEnsjsQJ8"
+        },
+        {
+          "name": "_bz_view_at",
+          "value": "2025-10-23"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "persist:admin",
+          "value": "{\"isAdminMode\":\"false\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"creationTimeMs\":1761202915567},\"expires\":1768978915567}}"
+        },
+        {
+          "name": "ph_phc_xAvL2Iq4tFmANRE7kzbKwaSqp1HJjN7x48s3vr0CMjs_posthog",
+          "value": "{\"$initialization_time\":\"2025-10-23T07:01:55.433Z\",\"$configured_session_timeout_ms\":1800000,\"$sesid\":[1761202930980,\"019a0fdf-c86b-7791-a43d-208c3c856e1b\",1761202915434],\"$client_session_props\":{\"sessionId\":\"019a0fdf-c86b-7791-a43d-208c3c856e1b\",\"props\":{\"r\":\"$direct\",\"u\":\"https://app.emergent.sh/\"}},\"distinct_id\":\"019a0fdf-c86f-7779-9ab9-4462c9401d14\",\"$device_id\":\"019a0fdf-c86f-7779-9ab9-4462c9401d14\",\"$user_state\":\"anonymous\",\"$session_recording_enabled_server_side\":true,\"$console_log_recording_enabled_server_side\":true,\"$session_recording_network_payload_capture\":{\"capturePerformance\":{\"network_timing\":true,\"web_vitals\":true,\"web_vitals_allowed_metrics\":null},\"recordBody\":true,\"recordHeaders\":true},\"$session_recording_masking\":{\"maskAllInputs\":false},\"$session_recording_canvas_recording\":{\"enabled\":true,\"fps\":3,\"quality\":\"0.4\"},\"$replay_sample_rate\":0.05,\"$replay_minimum_duration\":30000,\"$replay_script_config\":null,\"$session_is_sampled\":false,\"$autocapture_disabled_server_side\":false,\"$heatmaps_enabled_server_side\":true,\"$web_vitals_enabled_server_side\":true,\"$web_vitals_allowed_metrics\":null,\"$exception_capture_enabled_server_side\":false,\"$error_tracking_suppression_rules\":[],\"$dead_clicks_enabled_server_side\":true,\"$active_feature_flags\":[\"feature_referral\",\"feature_forking\",\"feature_upload_assets\",\"e1_enabled\",\"new_workspace_button\",\"public_private_feature\",\"mobile_preview_enabled\",\"base_url\",\"config_version\",\"github_fork_paywall\",\"tier_1_flag\",\"landing_subject_line\",\"experimental_agent_features\"],\"$enabled_feature_flags\":{\"feature_referral\":true,\"feature_forking\":true,\"feature_mcp_config\":false,\"landing_google_onetap\":false,\"feature_upload_assets\":true,\"e1_enabled\":true,\"test_mode_enabled\":false,\"price_crossed_out\":false,\"new_workspace_button\":true,\"public_private_feature\":true,\"mobile_preview_enabled\":true,\"base_url\":\"old\",\"show_old_landing_page\":false,\"config_version\":\"1_0_21\",\"github_fork_paywall\":true,\"enterprise_plan_enabled\":false,\"tier_1_flag\":true,\"landing_subject_line\":\"variant-c\",\"experimental_agent_features\":true,\"conversion_changes\":false,\"buy_domain_feature\":false},\"$feature_flag_payloads\":{\"base_url\":\"{ \\\"url\\\": \\\"https://demobackend.emergentagent.com\\\" }\",\"tier_1_flag\":\"{ \\\"machine_size\\\": \\\"small\\\" }\"},\"$feature_flag_details\":{\"feature_referral\":{\"key\":\"feature_referral\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":163770,\"version\":15,\"description\":null,\"payload\":null}},\"feature_forking\":{\"key\":\"feature_forking\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":150982,\"version\":7,\"description\":null,\"payload\":null}},\"feature_mcp_config\":{\"key\":\"feature_mcp_config\",\"enabled\":false,\"variant\":null,\"reason\":{\"code\":\"out_of_rollout_bound\",\"condition_index\":0,\"description\":\"Out of rollout bound\"},\"metadata\":{\"id\":182088,\"version\":1,\"description\":null,\"payload\":null}},\"landing_google_onetap\":{\"key\":\"landing_google_onetap\",\"enabled\":false,\"variant\":null,\"reason\":{\"code\":\"out_of_rollout_bound\",\"condition_index\":0,\"description\":\"Out of rollout bound\"},\"metadata\":{\"id\":218176,\"version\":1,\"description\":null,\"payload\":null}},\"feature_upload_assets\":{\"key\":\"feature_upload_assets\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":158644,\"version\":7,\"description\":null,\"payload\":null}},\"e1_enabled\":{\"key\":\"e1_enabled\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":166321,\"version\":2,\"description\":null,\"payload\":null}},\"test_mode_enabled\":{\"key\":\"test_mode_enabled\",\"enabled\":false,\"variant\":null,\"reason\":{\"code\":\"no_condition_match\",\"condition_index\":0,\"description\":\"No matching condition set\"},\"metadata\":{\"id\":203210,\"version\":5,\"description\":null,\"payload\":null}},\"price_crossed_out\":{\"key\":\"price_crossed_out\",\"enabled\":false,\"variant\":null,\"reason\":{\"code\":\"out_of_rollout_bound\",\"condition_index\":0,\"description\":\"Out of rollout bound\"},\"metadata\":{\"id\":179733,\"version\":3,\"description\":null,\"payload\":null}},\"new_workspace_button\":{\"key\":\"new_workspace_button\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":183253,\"version\":2,\"description\":null,\"payload\":null}},\"public_private_feature\":{\"key\":\"public_private_feature\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":1,\"description\":\"Matched condition set 2\"},\"metadata\":{\"id\":189147,\"version\":4,\"description\":null,\"payload\":null}},\"mobile_preview_enabled\":{\"key\":\"mobile_preview_enabled\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":165430,\"version\":1,\"description\":null,\"payload\":null}},\"base_url\":{\"key\":\"base_url\",\"enabled\":true,\"variant\":\"old\",\"reason\":{\"code\":\"condition_match\",\"condition_index\":1,\"description\":\"Matched condition set 2\"},\"metadata\":{\"id\":158765,\"version\":1,\"description\":null,\"payload\":\"{ \\\"url\\\": \\\"https://demobackend.emergentagent.com\\\" }\"}},\"show_old_landing_page\":{\"key\":\"show_old_landing_page\",\"enabled\":false,\"variant\":null,\"reason\":{\"code\":\"out_of_rollout_bound\",\"condition_index\":0,\"description\":\"Out of rollout bound\"},\"metadata\":{\"id\":216609,\"version\":1,\"description\":null,\"payload\":null}},\"config_version\":{\"key\":\"config_version\",\"enabled\":true,\"variant\":\"1_0_21\",\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":137029,\"version\":7,\"description\":null,\"payload\":null}},\"github_fork_paywall\":{\"key\":\"github_fork_paywall\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":182058,\"version\":5,\"description\":null,\"payload\":null}},\"enterprise_plan_enabled\":{\"key\":\"enterprise_plan_enabled\",\"enabled\":false,\"variant\":null,\"reason\":{\"code\":\"out_of_rollout_bound\",\"condition_index\":0,\"description\":\"Out of rollout bound\"},\"metadata\":{\"id\":196914,\"version\":1,\"description\":null,\"payload\":null}},\"tier_1_flag\":{\"key\":\"tier_1_flag\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":218066,\"version\":1,\"description\":null,\"payload\":\"{ \\\"machine_size\\\": \\\"small\\\" }\"}},\"landing_subject_line\":{\"key\":\"landing_subject_line\",\"enabled\":true,\"variant\":\"variant-c\",\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":218128,\"version\":1,\"description\":null,\"payload\":null}},\"experimental_agent_features\":{\"key\":\"experimental_agent_features\",\"enabled\":true,\"variant\":null,\"reason\":{\"code\":\"condition_match\",\"condition_index\":0,\"description\":\"Matched condition set 1\"},\"metadata\":{\"id\":147413,\"version\":4,\"description\":null,\"payload\":null}},\"conversion_changes\":{\"key\":\"conversion_changes\",\"enabled\":false,\"variant\":null,\"reason\":{\"code\":\"no_condition_match\",\"condition_index\":1,\"description\":\"No matching condition set\"},\"metadata\":{\"id\":191246,\"version\":4,\"description\":null,\"payload\":null}},\"buy_domain_feature\":{\"key\":\"buy_domain_feature\",\"enabled\":false,\"variant\":null,\"reason\":{\"code\":\"out_of_rollout_bound\",\"condition_index\":0,\"description\":\"Out of rollout bound\"},\"metadata\":{\"id\":193504,\"version\":1,\"description\":null,\"payload\":null}}},\"$feature_flag_request_id\":\"79e724a2-bdba-476f-a3c7-42e722cebcc8\",\"$flag_call_reported\":{\"landing_subject_line\":[\"variant-c\"]}}"
+        }
+      ]
+    }
+  ]
+}
